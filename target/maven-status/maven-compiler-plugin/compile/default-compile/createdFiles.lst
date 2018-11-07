@@ -1,0 +1,7 @@
+me\exam\Item.class
+me\exam\ItemMockedData.class
+me\exam\SwaggerConfiguration.class
+me\exam\AppController.class
+me\exam\DataInitializer.class
+me\exam\MainApplicationClass.class
+me\exam\ItemDAO.class

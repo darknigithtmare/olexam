@@ -1,4 +1,4 @@
 FROM openjdk:8
-COPY ./target/classes/me/exam /tmp
+COPY ./target /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java","MainApplicationClass"]
+ENTRYPOINT ["java", "-jar", "excersice-1.0-SNAPSHOT.jar"]
